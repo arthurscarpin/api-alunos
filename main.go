@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/arthurscarpin/api-go-gin/database"
-	"github.com/arthurscarpin/api-go-gin/routes"
+	"github.com/arthurscarpin/gin-api-rest/database"
+	"github.com/arthurscarpin/gin-api-rest/routes"
 )
 
 func main() {
