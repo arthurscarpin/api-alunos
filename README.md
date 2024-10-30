@@ -41,6 +41,13 @@ Para testar essa API, você poderá utilizar a ferramenta Postman.
 
 Esse link contém um totorial de como usar a ferramenta: [Tutorial Postman](https://gist.github.com/zec4o/f4a600fafa50003e315fa3fcfd9c1e4a)
 
+## 🏫 Gin Swagger
+
+![swagger](https://github.com/user-attachments/assets/6569eef0-1128-41c4-bc2b-bf10566518a6)
+
+A API foi documentada através do Gin Swagger.
+
+Url para acesso: [Swagger API Alunos](http://localhost:8080/swagger/index.html)
 
 ## 📁 Documentações de referência
 [Documentação GoLang](https://go.dev/)
